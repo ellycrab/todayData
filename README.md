@@ -23,3 +23,8 @@ DB : MySQL
 카카오 지도
 네이버 로그인
 카카오 로그인
+
+#고은별 작업폴더
+daetaFooter
+jobAds
+
