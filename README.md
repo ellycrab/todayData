@@ -29,3 +29,5 @@ DB : MySQL
 daetaFooter   
 jobAds
 
+# 작업영역 동영상 url
+https://www.canva.com/design/DAFuCWBsHP0/fqdAtZqZ6YVkPBmkmNVO_w/edit
