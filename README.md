@@ -26,6 +26,6 @@ DB : MySQL
 
 
 # 고은별 작업폴더
-daetaFooter
+daetaFooter   
 jobAds
 
